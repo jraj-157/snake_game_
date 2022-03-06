@@ -1,8 +1,8 @@
 // Game Constants & Variables
 let inputDir = {x: 0, y: 0}; 
-const foodSound = new Audio('music/food.mp3');
-const gameOverSound = new Audio('music/gameover.mp3');
-const moveSound = new Audio('music/move.mp3');
+const foodSound = new Audio('food.mp3');
+const gameOverSound = new Audio('gameover.mp3');
+const moveSound = new Audio('move.mp3');
 const musicSound = new Audio('Marvel_Studios_Shang-Chi_Main_Them_(getmp3.pro).mp3');
 let speed = 10;
 let score = 0;
